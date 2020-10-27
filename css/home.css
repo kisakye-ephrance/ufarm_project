@@ -1,6 +1,8 @@
 body{
-    background-image: url(../images/home_pic2.jpg);
+    background-image: url(../images/global_south_africa_farmer_field.jpg);
     background-repeat: no-repeat;
-    background-size: 1500px 750px;
-	position: relative;
+    background-size: cover;
+    position: relative;
+    font-size: 30px;
+    
 }
